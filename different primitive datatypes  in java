@@ -1,0 +1,16 @@
+class Diff
+{
+    public static void main(String a[])
+    {
+        int b =1236;
+        byte c =127;
+        short d=567;
+        long e=678l;
+
+        char f='l';
+        char h ='7';
+        
+        boolean g=true;
+
+    }
+}
